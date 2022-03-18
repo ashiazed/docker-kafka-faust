@@ -1,0 +1,12 @@
+.*.swp
+*.pyc
+*.pyo
+.DS_Store
+tags
+.ropeproject
+*.actual
+.vimcache
+.idea
+.mypy_cache
+.envrc
+*.sqlite
